@@ -7,5 +7,3 @@ Survival Probability is CIR
 
 ![alt text](https://github.com/nacked-riveroverflow/CDS-Pricing-MonteCarlo/blob/master/coding%20result.jpg)
 
-## Script
-Copy script from 
